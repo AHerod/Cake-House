@@ -4,6 +4,9 @@
     <list default="true" id="35a92c12-fbc8-44de-888e-4047ca738add" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../landing_page_N.Sz" beforeDir="false" afterPath="$PROJECT_DIR$/../landing_page_N.Sz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../udemy_React_Redux/bookstore" beforeDir="false" afterPath="$PROJECT_DIR$/../udemy_React_Redux/bookstore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,31 +31,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="1" />
+          <entry key="css" value="2" />
+          <entry key="html" value="2" />
           <entry key="jpg" value="1" />
           <entry key="scss" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="2" />
           <entry key="Image" value="1" />
           <entry key="SCSS" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1770" />
-          <entry key="html" value="1581" />
+          <entry key="css" value="2839" />
+          <entry key="html" value="1701" />
           <entry key="txt" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1770" />
-          <entry key="HTML" value="1581" />
+          <entry key="CSS" value="2839" />
+          <entry key="HTML" value="1701" />
           <entry key="PLAIN_TEXT" value="75" />
         </counts>
       </usages-collector>
@@ -60,23 +63,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="e#4307#4313#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="318">
+              <caret line="40" selection-start-line="39" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="173" column="23" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="23" />
+            <state relative-caret-position="227">
+              <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -102,8 +102,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -114,8 +114,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
+    <option name="x" value="678" />
+    <option name="width" value="1249" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -132,11 +132,6 @@
             <path>
               <item name="landing_page_on_css_grid" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing_page_on_css_grid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="landing_page_on_css_grid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="landing_page_on_css_grid" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +171,7 @@
       <updated>1544869961316</updated>
       <workItem from="1544869964781" duration="963000" />
       <workItem from="1545085236843" duration="4180000" />
-      <workItem from="1545165683459" duration="14025000" />
+      <workItem from="1545165683459" duration="24676000" />
     </task>
     <task id="LOCAL-00001" summary="html setup">
       <created>1545087463950</created>
@@ -189,13 +184,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19168000" />
+    <option name="totallyTimeSpent" value="29819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="543" y="0" width="999" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11434511" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,8 +202,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32998565" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49865592" visible="true" weight="0.024390243" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013441" side_tool="true" weight="0.55667144" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3295129" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -235,20 +230,17 @@
     <entry file="file://$USER_HOME$/Desktop/E/PULPSON/CODE/shop-pixel-perfect/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="173" column="23" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="23" />
+        <state relative-caret-position="318">
+          <caret line="40" selection-start-line="39" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#4307#4313#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="227">
+          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
         </state>
       </provider>
     </entry>
